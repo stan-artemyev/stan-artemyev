@@ -14,7 +14,7 @@ I'm a cloud engineer with over 2 years of experience working with AWS and softwa
 ### 💻 Technologies & Tools
 - Cloud: AWS (EC2, S3, Lambda, RDS, etc.)
 - Backend: Python (Flask), JavaScript
-- DevOps: Docker, Kubernetes, Terraform
+- DevOps: Docker, Terraform
 - CI/CD: Jenkins, GitHub Actions
 - Databases: MySQL, PostgreSQL
 - Security: IAM, Network Security
