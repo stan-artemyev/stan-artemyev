@@ -6,6 +6,7 @@ I'm a cloud engineer with over 2 years of experience working with AWS and softwa
 - **[AWS Certified Solutions Architect](https://www.credly.com/badges/495223bd-737a-44cb-a6cf-92439cb4be7f)**
 - **[AWS Certified Developer](https://www.credly.com/badges/dbad47ad-e98f-4c20-927c-3496c61c9935)**
 - **[Harvard CS50: Introduction to Computer Science](https://courses.edx.org/certificates/4c2b23585e974dd8b858bbd6201dfdb0)**
+- **[Harvard CS50p: Introduction to Programming with Python](https://certificates.cs50.io/a71ba4e6-e0e7-4197-9c6b-60daf6785454.pdf?size=letter)**
 
 ### 🔭 Current Projects
 - **[TradeHub](https://github.com/stan-artemyev/tradehub)**: A stock trade simulator built with Flask.
@@ -18,11 +19,6 @@ I'm a cloud engineer with over 2 years of experience working with AWS and softwa
 - CI/CD: Jenkins, GitHub Actions
 - Databases: MySQL, PostgreSQL
 - Security: IAM, Network Security
-
-### 🌱 Currently Learning
-- Harvard CS50P: Introduction to Programming with Python
-- Security automation and monitoring
-- Kubernetes & microservices architecture
 
 ### 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/stan-artemyev/)
