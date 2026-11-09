@@ -1,28 +1,20 @@
-# 👋 Hello, I'm Stanislav!
+# Hi, I'm Stanislav 👋
 
-I'm a cloud engineer with over 2 years of experience working with AWS and software development. I also have a strong background in engineering, sales, and customer support with 7+ years of industry experience. I’m passionate about cloud technologies, DevOps, SRE, software development, and security.
+AI Automation Engineer in Vancouver, BC. 8+ years across engineering, cloud and technical customer roles. I build AI agents, automations and API integrations.
+
+### 🔨 Projects
+| Project | What it does | Built with |
+|---|---|---|
+| **[NowBar](https://github.com/stan-artemyev/NowBar)** | Open-source macOS menu bar app for Apple Music. Built by orchestrating Claude Code agents. No network code, no telemetry | Claude Code (multi-agent), Swift |
+| **[TradeHub](https://github.com/stan-artemyev/tradehub)** | Stock trading simulator with live quotes and $10K virtual cash. Hand-coded CS50 final project | Python, Flask, SQLite, JavaScript |
+| **YouTube Summarizer** | Turns any YouTube video into a short summary using an LLM. Hand-coded CS50p final project | Python, Flask, OpenAI API |
+| **Expense tracker** *(building)* | Emailed receipts to Google Sheets, with a Telegram bot for exceptions | Claude API, Google Sheets API, Telegram |
+
+### 🧰 Stack
+Python · JavaScript · SQL · Claude API · OpenAI API · Claude Code · MCP · AWS (Lambda, API Gateway, EC2, S3, RDS) · Terraform · Docker · REST APIs · SSO/SAML
 
 ### 🎓 Certifications
-- **[AWS Certified Solutions Architect](https://www.credly.com/badges/495223bd-737a-44cb-a6cf-92439cb4be7f)**
-- **[AWS Certified Developer](https://www.credly.com/badges/dbad47ad-e98f-4c20-927c-3496c61c9935)**
-- **[Harvard CS50: Introduction to Computer Science](https://courses.edx.org/certificates/4c2b23585e974dd8b858bbd6201dfdb0)**
-- **[Harvard CS50p: Introduction to Programming with Python](https://certificates.cs50.io/a71ba4e6-e0e7-4197-9c6b-60daf6785454.pdf?size=letter)**
+[AWS Solutions Architect](https://www.credly.com/badges/495223bd-737a-44cb-a6cf-92439cb4be7f) · [AWS Developer](https://www.credly.com/badges/dbad47ad-e98f-4c20-927c-3496c61c9935) · [Harvard CS50](https://courses.edx.org/certificates/4c2b23585e974dd8b858bbd6201dfdb0) · [Harvard CS50P](https://certificates.cs50.io/a71ba4e6-e0e7-4197-9c6b-60daf6785454.pdf?size=letter)
 
-### 🔭 Current Projects
-- **[TradeHub](https://github.com/stan-artemyev/tradehub)**: A stock trade simulator built with Flask.
-- **[Portfolio](https://github.com/stan-artemyev)**: Explore more of my work on GitHub.
-
-### 💻 Technologies & Tools
-- Cloud: AWS (EC2, S3, Lambda, RDS, etc.)
-- Backend: Python (Flask), JavaScript
-- DevOps: Docker, Terraform
-- CI/CD: Jenkins, GitHub Actions
-- Databases: MySQL, PostgreSQL
-- Security: IAM, Network Security
-
-### 🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/stan-artemyev/)
-
----
-
-_"Building reliable and scalable cloud-based systems is my passion. I thrive in team settings and aim to continuously improve and deliver value in all my projects."_ 
+### 🤝 Connect
+Open to AI Automation, AI Integration and Forward Deployed Engineer roles (remote Canada or Vancouver hybrid) · [LinkedIn](https://www.linkedin.com/in/stan-artemyev/)
